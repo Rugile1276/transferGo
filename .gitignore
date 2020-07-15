@@ -3,3 +3,6 @@
 /target
 
 /package-lock.json
+
+/DS_Store
+/idea
